@@ -1,0 +1,1910 @@
+{
+ "page": {
+  "id": "b8q65q4j311d",
+  "name": "UBC",
+  "url": "https://status.it.ubc.ca",
+  "time_zone": "America/Los_Angeles",
+  "updated_at": "2026-11-14T22:09:14.839-08:00"
+ },
+ "components": [
+  {
+   "id": "jkr11dbxt897",
+   "name": "Campus Wide Login",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 1,
+   "components": [
+    "4zmk4slt1jnz",
+    "z79893hrqxqj",
+    "txrqq2vs6m78",
+    "b5w14hxhgmjm"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "ky0x18mhlhdw",
+   "name": "UBC Identity Broker",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 2,
+   "components": [
+    "l0638gyvygz3",
+    "7tqpq75sxy03",
+    "gl36358bwpwn",
+    "fp11vwn3st5w",
+    "34pb9gfs4rbf",
+    "zj460829nfbv",
+    "4pvqmkqdbt5r"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "lj93zf62jcw0",
+   "name": "EduCloud Server",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 5,
+   "components": [
+    "4x1lcn3g5xtg",
+    "glsmvg1znkmg",
+    "rsw8t1tm8d39",
+    "zj09cmd11lql"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "s1m7drwjynkr",
+   "name": "Email Services",
+   "status": "degraded_performance",
+   "group": true,
+   "group_id": null,
+   "position": 6,
+   "components": [
+    "cknby01w6h0y",
+    "p6674v92jrz5",
+    "hltvb8nykd9c",
+    "qsnybzkzvnzz"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "x98mkk6mt9f6",
+   "name": "Home Drive",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 7,
+   "components": [
+    "kqq522ztb99d",
+    "2fzmq3fn777h"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "6lqnlzrz58h8",
+   "name": "Advanced Research Computing",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 8,
+   "components": [
+    "kck3j87bl3j8",
+    "52s012ywjr5m"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "l53q9k6swf1q",
+   "name": "Microsoft 365",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 9,
+   "components": [
+    "nnc3smn61pc8",
+    "fp551mqszkf3"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "7rg3pbxsycfd",
+   "name": "Network - Campus",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 10,
+   "components": [
+    "2kk28ln5d57z",
+    "lqx0t6zxbqgt",
+    "0mrdx7w9vry8",
+    "6yvcqh64dkbv"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "n72lyphpnhlf",
+   "name": "Network - Wireless",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 11,
+   "components": [
+    "3rcn3d62pkp5",
+    "gryx9zfmx0zd",
+    "yxmcwj4h3v0y",
+    "cs32t3m4c8hp"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "5vs75d9c7b4k",
+   "name": "Network - VPN",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 12,
+   "components": [
+    "g0r61jbz5hj6",
+    "cfsxlvtgbrhl"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "f8nszhj6rhst",
+   "name": "Voice Services",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 13,
+   "components": [
+    "qg85m65gcbh3",
+    "jnlvqvw7ws7x",
+    "84qjrdcsvvmp",
+    "2215467nb3zy"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "32wx7wyj5qsp",
+   "name": "Remote Labs",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 14,
+   "components": [
+    "wcb59s5696n2",
+    "crbvmts8g02m"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "qw4rvxwxg9bl",
+   "name": "Other",
+   "status": "operational",
+   "group": true,
+   "group_id": null,
+   "position": 21,
+   "components": [
+    "fd89kl8c3bsg",
+    "1yh117jsfbx6"
+   ],
+   "showcase": false
+  },
+  {
+   "id": "4x1lcn3g5xtg",
+   "name": "Management Interface - https://educloud.ubc.ca",
+   "status": "operational",
+   "group": false,
+   "group_id": "lj93zf62jcw0",
+   "created_at": "2020-04-29T11:31:41-07:00",
+   "updated_at": "2026-09-03T16:00:10-07:00",
+   "showcase": false,
+   "description": "educloud.ubc.ca web interface and API"
+  },
+  {
+   "id": "wcb59s5696n2",
+   "name": "Remote Labs - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "32wx7wyj5qsp",
+   "created_at": "2020-08-05T08:26:27-07:00",
+   "updated_at": "2023-04-24T17:21:19-07:00",
+   "showcase": false,
+   "description": "Remote access to UBC Vancouver lab computers"
+  },
+  {
+   "id": "cknby01w6h0y",
+   "name": "Faculty and Staff Email (FASmail)",
+   "status": "degraded_performance",
+   "group": false,
+   "group_id": "s1m7drwjynkr",
+   "created_at": "2020-12-03T11:12:49-08:00",
+   "updated_at": "2026-11-13T06:44:07.898-08:00",
+   "showcase": false
+  },
+  {
+   "id": "nnc3smn61pc8",
+   "name": "OneDrive",
+   "status": "operational",
+   "group": false,
+   "group_id": "l53q9k6swf1q",
+   "created_at": "2020-12-03T11:23:42-08:00",
+   "updated_at": "2026-10-04T17:00:07-07:00",
+   "showcase": false,
+   "description": "Microsoft OneDrive - File storage, synchronization and sharing"
+  },
+  {
+   "id": "kqq522ztb99d",
+   "name": "Home Drive - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "x98mkk6mt9f6",
+   "created_at": "2020-12-03T11:27:14-08:00",
+   "updated_at": "2025-03-13T17:00:21-07:00",
+   "showcase": false,
+   "description": "Network file storage for UBC Employees"
+  },
+  {
+   "id": "3rcn3d62pkp5",
+   "name": "Wireless - Hospitals",
+   "status": "operational",
+   "group": false,
+   "group_id": "n72lyphpnhlf",
+   "created_at": "2020-12-03T11:36:58-08:00",
+   "updated_at": "2026-09-01T23:00:08-07:00",
+   "showcase": false,
+   "description": "UBC wireless network status - Hospital sites"
+  },
+  {
+   "id": "g0r61jbz5hj6",
+   "name": "VPN - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "5vs75d9c7b4k",
+   "created_at": "2020-12-03T11:38:54-08:00",
+   "updated_at": "2026-10-29T23:59:07-07:00",
+   "showcase": false,
+   "description": "UBC VPN status - Okanagan"
+  },
+  {
+   "id": "2kk28ln5d57z",
+   "name": "Network - Hospitals",
+   "status": "operational",
+   "group": false,
+   "group_id": "7rg3pbxsycfd",
+   "created_at": "2020-12-03T11:41:19-08:00",
+   "updated_at": "2026-08-15T07:00:09-07:00",
+   "showcase": false,
+   "description": "UBC network status - Hospital sites"
+  },
+  {
+   "id": "4zmk4slt1jnz",
+   "name": "CWL Web Services",
+   "status": "operational",
+   "group": false,
+   "group_id": "jkr11dbxt897",
+   "created_at": "2020-12-09T15:43:21-08:00",
+   "updated_at": "2026-07-30T20:00:57-07:00",
+   "showcase": false,
+   "description": "Account and password creation and management"
+  },
+  {
+   "id": "fd89kl8c3bsg",
+   "name": "Other - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "qw4rvxwxg9bl",
+   "created_at": "2021-02-22T14:58:37-08:00",
+   "updated_at": "2026-11-13T16:00:09.827-08:00",
+   "showcase": false,
+   "description": "For tracking the status of apps or services that do not have their own status page category"
+  },
+  {
+   "id": "qg85m65gcbh3",
+   "name": "Telephone Service - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "f8nszhj6rhst",
+   "created_at": "2023-05-09T13:15:39-07:00",
+   "updated_at": "2026-10-24T00:01:10-07:00",
+   "showcase": false
+  },
+  {
+   "id": "l0638gyvygz3",
+   "name": "UBC Applicant & Student Federation (idb0)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2023-10-04T17:25:02-07:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Login method for applicant related applications"
+  },
+  {
+   "id": "kck3j87bl3j8",
+   "name": "ARC Sockeye",
+   "status": "operational",
+   "group": false,
+   "group_id": "6lqnlzrz58h8",
+   "created_at": "2025-02-14T10:57:46-08:00",
+   "updated_at": "2026-10-20T18:00:08-07:00",
+   "showcase": false
+  },
+  {
+   "id": "p6674v92jrz5",
+   "name": "UBC Student Email",
+   "status": "degraded_performance",
+   "group": false,
+   "group_id": "s1m7drwjynkr",
+   "created_at": "2020-12-03T11:14:02-08:00",
+   "updated_at": "2026-11-13T06:44:07.926-08:00",
+   "showcase": false
+  },
+  {
+   "id": "fp551mqszkf3",
+   "name": "Teams",
+   "status": "operational",
+   "group": false,
+   "group_id": "l53q9k6swf1q",
+   "created_at": "2020-12-03T11:24:24-08:00",
+   "updated_at": "2026-04-30T17:00:07-07:00",
+   "showcase": false,
+   "description": "Microsoft Teams - Meet, Chat, Call and Collaborate in one place"
+  },
+  {
+   "id": "gryx9zfmx0zd",
+   "name": "Wireless - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "n72lyphpnhlf",
+   "created_at": "2020-12-03T11:36:09-08:00",
+   "updated_at": "2026-09-01T23:00:08-07:00",
+   "showcase": false,
+   "description": "UBC wireless network status - Okanagan"
+  },
+  {
+   "id": "cfsxlvtgbrhl",
+   "name": "VPN - Point Grey",
+   "status": "operational",
+   "group": false,
+   "group_id": "5vs75d9c7b4k",
+   "created_at": "2020-12-03T11:38:15-08:00",
+   "updated_at": "2026-10-29T23:59:07-07:00",
+   "showcase": false,
+   "description": "UBC VPN status - Point Grey"
+  },
+  {
+   "id": "lqx0t6zxbqgt",
+   "name": "Network - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "7rg3pbxsycfd",
+   "created_at": "2020-12-03T11:40:55-08:00",
+   "updated_at": "2026-10-22T20:01:07-07:00",
+   "showcase": false,
+   "description": "UBC network status - Okanagan"
+  },
+  {
+   "id": "z79893hrqxqj",
+   "name": "UBC Identity Provider",
+   "status": "operational",
+   "group": false,
+   "group_id": "jkr11dbxt897",
+   "created_at": "2020-12-09T15:57:54-08:00",
+   "updated_at": "2026-07-30T20:00:57-07:00",
+   "showcase": false,
+   "description": "CWL Single Signon authentication (shibboleth)"
+  },
+  {
+   "id": "2fzmq3fn777h",
+   "name": "Home Drive - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "x98mkk6mt9f6",
+   "created_at": "2021-02-23T08:00:23-08:00",
+   "updated_at": "2025-12-30T16:30:21-08:00",
+   "showcase": false,
+   "description": "Network file storage for UBC Employees"
+  },
+  {
+   "id": "1yh117jsfbx6",
+   "name": "Other - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "qw4rvxwxg9bl",
+   "created_at": "2021-02-23T08:04:36-08:00",
+   "updated_at": "2026-11-13T16:00:11.709-08:00",
+   "showcase": false,
+   "description": "For tracking the status of apps or services that do not have their own status page category"
+  },
+  {
+   "id": "crbvmts8g02m",
+   "name": "Remote Labs - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "32wx7wyj5qsp",
+   "created_at": "2021-03-01T07:50:56-08:00",
+   "updated_at": "2022-07-30T17:00:34-07:00",
+   "showcase": false,
+   "description": "Remote access to UBC Okanagan lab computers"
+  },
+  {
+   "id": "jnlvqvw7ws7x",
+   "name": "Telephone Service - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "f8nszhj6rhst",
+   "created_at": "2023-05-09T13:16:05-07:00",
+   "updated_at": "2026-09-20T06:00:07-07:00",
+   "showcase": false
+  },
+  {
+   "id": "7tqpq75sxy03",
+   "name": "UBC OpenID Federation (idb1)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2023-10-04T17:27:36-07:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Single Signon to Services via the OpenID Protocol with CWL Accounts"
+  },
+  {
+   "id": "52s012ywjr5m",
+   "name": "ARC Chinook",
+   "status": "operational",
+   "group": false,
+   "group_id": "6lqnlzrz58h8",
+   "created_at": "2025-02-14T10:58:32-08:00",
+   "updated_at": "2025-02-14T11:00:39-08:00",
+   "showcase": false
+  },
+  {
+   "id": "glsmvg1znkmg",
+   "name": "Management Interface - https://educloud.ok.ubc.ca",
+   "status": "operational",
+   "group": false,
+   "group_id": "lj93zf62jcw0",
+   "created_at": "2020-05-02T10:58:50-07:00",
+   "updated_at": "2026-10-19T16:00:08-07:00",
+   "showcase": false,
+   "description": "educloud.ok.ubc.ca web interface and API"
+  },
+  {
+   "id": "hltvb8nykd9c",
+   "name": "Mail Relay",
+   "status": "operational",
+   "group": false,
+   "group_id": "s1m7drwjynkr",
+   "created_at": "2020-12-03T11:14:44-08:00",
+   "updated_at": "2023-10-11T17:01:31-07:00",
+   "showcase": false,
+   "description": "Inbound/outbound email delivery and scanning services"
+  },
+  {
+   "id": "tpgptcqs3qd9",
+   "name": "Canvas",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:26:51-08:00",
+   "updated_at": "2026-10-29T21:30:07-07:00",
+   "showcase": false,
+   "description": "UBC online course content. See https://status.instructure.com for detailed service status"
+  },
+  {
+   "id": "yxmcwj4h3v0y",
+   "name": "Wireless - Point Grey",
+   "status": "operational",
+   "group": false,
+   "group_id": "n72lyphpnhlf",
+   "created_at": "2020-12-03T11:35:14-08:00",
+   "updated_at": "2026-11-13T03:30:11.412-08:00",
+   "showcase": false,
+   "description": "UBC wireless network status - Point Grey"
+  },
+  {
+   "id": "0mrdx7w9vry8",
+   "name": "Network - Point Grey",
+   "status": "operational",
+   "group": false,
+   "group_id": "7rg3pbxsycfd",
+   "created_at": "2020-12-03T11:40:18-08:00",
+   "updated_at": "2026-11-13T03:30:14.871-08:00",
+   "showcase": false,
+   "description": "UBC network status - Point Grey"
+  },
+  {
+   "id": "84qjrdcsvvmp",
+   "name": "Contact Centre - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "f8nszhj6rhst",
+   "created_at": "2023-05-09T13:16:24-07:00",
+   "updated_at": "2026-10-24T00:01:13-07:00",
+   "showcase": false
+  },
+  {
+   "id": "gl36358bwpwn",
+   "name": "UBC Faculty of Medicine and BC Health Authority Federation (idb2)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2023-10-04T17:27:51-07:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Single Signon to UBC Faculty of Medicine Services with CWL and Provincial Health Services Authority Accounts"
+  },
+  {
+   "id": "txrqq2vs6m78",
+   "name": "Enterprise LDAP (ELDAP)",
+   "status": "operational",
+   "group": false,
+   "group_id": "jkr11dbxt897",
+   "created_at": "2026-08-20T17:43:38-07:00",
+   "updated_at": "2026-08-20T17:45:16-07:00",
+   "showcase": false
+  },
+  {
+   "id": "85z33wqx36dy",
+   "name": "Confluence",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:28:18-08:00",
+   "updated_at": "2026-06-30T21:30:07-07:00",
+   "showcase": false
+  },
+  {
+   "id": "6yvcqh64dkbv",
+   "name": "Network - Robson Square",
+   "status": "operational",
+   "group": false,
+   "group_id": "7rg3pbxsycfd",
+   "created_at": "2020-12-03T11:41:37-08:00",
+   "updated_at": "2026-09-02T19:30:12-07:00",
+   "showcase": false,
+   "description": "UBC network status - Robson Square"
+  },
+  {
+   "id": "qsnybzkzvnzz",
+   "name": "Mailing List",
+   "status": "operational",
+   "group": false,
+   "group_id": "s1m7drwjynkr",
+   "created_at": "2020-12-03T15:19:00-08:00",
+   "updated_at": "2026-09-17T13:29:05-07:00",
+   "showcase": false,
+   "description": "Campus community mailing list service"
+  },
+  {
+   "id": "cs32t3m4c8hp",
+   "name": "Wireless - Robson Square",
+   "status": "operational",
+   "group": false,
+   "group_id": "n72lyphpnhlf",
+   "created_at": "2020-12-09T08:38:53-08:00",
+   "updated_at": "2026-09-01T23:00:09-07:00",
+   "showcase": false,
+   "description": "UBC wireless network status - Robson Square"
+  },
+  {
+   "id": "b5w14hxhgmjm",
+   "name": "Multi-factor Authentication (MFA)",
+   "status": "operational",
+   "group": false,
+   "group_id": "jkr11dbxt897",
+   "created_at": "2020-12-09T15:59:29-08:00",
+   "updated_at": "2026-11-05T17:30:07-08:00",
+   "showcase": false,
+   "description": "Multi Factor Authentication (DUO)"
+  },
+  {
+   "id": "2215467nb3zy",
+   "name": "Contact Centre - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "f8nszhj6rhst",
+   "created_at": "2023-05-09T13:16:46-07:00",
+   "updated_at": "2026-06-30T08:40:11-07:00",
+   "showcase": false
+  },
+  {
+   "id": "fp11vwn3st5w",
+   "name": "UBC Beaty Museum of Biodiversity (idb3)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2024-11-07T15:38:19-08:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Single SignOn via CWL to UBC Beaty Museum of Biodiversity Specify7"
+  },
+  {
+   "id": "rsw8t1tm8d39",
+   "name": "Server Infrastructure - Vancouver",
+   "status": "operational",
+   "group": false,
+   "group_id": "lj93zf62jcw0",
+   "created_at": "2020-12-03T11:47:06-08:00",
+   "updated_at": "2026-05-10T16:00:07-07:00",
+   "showcase": false,
+   "description": "Vancouver virtual server Infrastructure - runs your virtual servers"
+  },
+  {
+   "id": "34pb9gfs4rbf",
+   "name": "UBC SecureLink Federation (slid)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2023-10-04T17:28:10-07:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Email verification link to access applicant related applications"
+  },
+  {
+   "id": "zj09cmd11lql",
+   "name": "Server Infrastructure - Okanagan",
+   "status": "operational",
+   "group": false,
+   "group_id": "lj93zf62jcw0",
+   "created_at": "2020-12-03T11:47:40-08:00",
+   "updated_at": "2026-07-23T15:48:41-07:00",
+   "showcase": false,
+   "description": "Okanagan virtual server Infrastructure - runs your virtual servers"
+  },
+  {
+   "id": "zj460829nfbv",
+   "name": "UBC One-time Link  Identity (olid)",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2025-08-01T10:47:55-07:00",
+   "updated_at": "2026-02-05T08:30:21-08:00",
+   "showcase": false,
+   "description": "Option for Applicants that will not be able to log into UBC-Verify via CWL, EPBC, Secure-Link, UNI CRM"
+  },
+  {
+   "id": "4pvqmkqdbt5r",
+   "name": "UBC -- Identity Verification",
+   "status": "operational",
+   "group": false,
+   "group_id": "ky0x18mhlhdw",
+   "created_at": "2024-12-11T08:25:30-08:00",
+   "updated_at": "2026-11-07T07:00:08-08:00",
+   "showcase": false,
+   "description": "Facilitate user identity self-verification on an ad-hoc basis"
+  },
+  {
+   "id": "0176mkkhw2wc",
+   "name": "SalesForce",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:26:43-08:00",
+   "updated_at": "2025-02-14T11:01:15-08:00",
+   "showcase": false
+  },
+  {
+   "id": "mqcy9z3fhdb2",
+   "name": "ServiceNow",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:27:38-08:00",
+   "updated_at": "2026-10-16T10:05:32-07:00",
+   "showcase": false
+  },
+  {
+   "id": "r0g9pl707lnk",
+   "name": "Sharepoint",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:19:21-08:00",
+   "updated_at": "2026-10-22T17:01:07-07:00",
+   "showcase": false
+  },
+  {
+   "id": "68ymbbt4zbrz",
+   "name": "Team Share",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-12-03T11:27:06-08:00",
+   "updated_at": "2026-10-18T16:00:07-07:00",
+   "showcase": false,
+   "description": "Shared network file storage for UBC teams"
+  },
+  {
+   "id": "kvh6lblcgd82",
+   "name": "Workday",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2020-11-12T09:53:37-08:00",
+   "updated_at": "2026-11-06T01:00:08-08:00",
+   "showcase": false
+  },
+  {
+   "id": "61ngcf080jcd",
+   "name": "Zoom",
+   "status": "operational",
+   "group": false,
+   "group_id": null,
+   "created_at": "2023-05-09T16:25:56-07:00",
+   "updated_at": "2026-10-29T09:00:07-07:00",
+   "showcase": false
+  }
+ ],
+ "incidents": [
+  {
+   "id": "j4dfq26lyyc6",
+   "name": "Workday Service Disruption, November 13, 2026, 20:40 PCT",
+   "status": "monitoring",
+   "impact": "none",
+   "created_at": "2026-11-13T19:42:28.944-08:00",
+   "updated_at": "2026-11-13T19:42:29.015-08:00",
+   "monitoring_at": "2026-11-13T19:42:29.005-08:00",
+   "resolved_at": null,
+   "started_at": "2026-11-13T19:42:28.936-08:00",
+   "shortlink": "https://stspg.io/1d2cfmmj81p9",
+   "incident_updates": [
+    {
+     "id": "m0ylcm2csvs3",
+     "status": "monitoring",
+     "body": "Workday is currently experiencing a service outage that is currently not affecting UBC.\n\nUBC teams are monitoring the situation and working with Workday to assess the impact and restore normal service.\n\nFurther updates will be provided as information becomes available.",
+     "created_at": "2026-11-13T19:42:29.005-08:00",
+     "updated_at": "2026-11-13T19:42:29.005-08:00",
+     "display_at": "2026-11-13T19:42:29.005-08:00",
+     "affected_components": [
+      {
+       "code": "kvh6lblcgd82",
+       "name": "Workday",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "kvh6lblcgd82"
+    }
+   ],
+   "reminder_intervals": null
+  },
+  {
+   "id": "5sv26bh8s03t",
+   "name": "Issues with connecting to Outlook and Microsoft 365 Web Applications, November 12, 2026, 11:15 PCT",
+   "status": "monitoring",
+   "impact": "minor",
+   "created_at": "2026-11-12T10:22:43.802-08:00",
+   "updated_at": "2026-11-13T15:06:52.144-08:00",
+   "monitoring_at": "2026-11-13T15:06:48.234-08:00",
+   "resolved_at": null,
+   "started_at": "2026-11-12T21:37:17.000-08:00",
+   "shortlink": "https://stspg.io/r2s5bdpjmv40",
+   "incident_updates": [
+    {
+     "id": "cmnpk65nz5lf",
+     "status": "monitoring",
+     "body": "As at 16:15 PCT, Microsoft 365 services have started to return online, however users may still experience some degradation of service.  If you are still experiencing any issues with Microsoft 365 applications, we suggest restarting it.\n\nFor FASMail and Student Email, there may be ongoing delays with receiving messages, however Microsoft has assured us that no messages will be lost.\n\nMicrosoft is continuing to work on stabilizing the service, and UBC IT technicians continue to monitor the status.  \n\nMore details are available from Microsoft at https://status.cloud.microsoft/.\n\nOur next update is scheduled for Monday 10:00 PCT.",
+     "created_at": "2026-11-13T15:06:48.234-08:00",
+     "updated_at": "2026-11-13T15:06:48.234-08:00",
+     "display_at": "2026-11-13T15:06:48.234-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "degraded_performance",
+       "new_status": "degraded_performance"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "degraded_performance",
+       "new_status": "degraded_performance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "ytr6wsjk18dj",
+     "status": "investigating",
+     "body": "As at 12:15 PCT, Microsoft 365 services have started to return online, however users may still experience some degradation of service.  If you are still experiencing any issues with Microsoft 365 applications, we suggest restarting it.\n\nFor FASMail and Student Email, there may be ongoing delays with receiving messages, however Microsoft has assured us that no messages will be lost.\n\nMicrosoft is continuing to work on stabilizing the service, and UBC IT technicians continue to monitor the status.  \n\nMore details are available from Microsoft at https://status.cloud.microsoft/.\n\nOur next update is scheduled for 16:30 PCT.",
+     "created_at": "2026-11-13T11:19:41.404-08:00",
+     "updated_at": "2026-11-13T11:20:00.299-08:00",
+     "display_at": "2026-11-13T11:19:41.000-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "degraded_performance",
+       "new_status": "degraded_performance"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "degraded_performance",
+       "new_status": "degraded_performance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "ppv2292lr3q2",
+     "status": "investigating",
+     "body": "As at 07:44 PCT, Microsoft 365 services have started to return online, however users may still experience some degradation of service.\n\nFor FASMail and Student Email, there may be ongoing delays with receiving messages, however Microsoft has assured us that no messages will be lost.\n\nMicrosoft is continuing to work on stabilizing the service, and UBC IT technicians continue to monitor the status.  \n\nMore details are available from Microsoft at https://status.cloud.microsoft/.\n\nOur next update is scheduled for 12:15 PCT.",
+     "created_at": "2026-11-13T06:44:07.980-08:00",
+     "updated_at": "2026-11-13T06:58:56.539-08:00",
+     "display_at": "2026-11-13T06:44:07.000-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "degraded_performance"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "degraded_performance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "mtq32682y5x3",
+     "status": "investigating",
+     "body": "Microsoft 365 is continuing to experience a global disruption - you may have delays or difficulties accessing Microsoft 365 services, including email and calendar.\n \nImpacted services may include, but are not limited to:\n \n- Exchange Online/Outlook (FASMail and Student Email)\n- Microsoft Teams - Calendar-related features are impacted - Chat and meetings is currently working\n- SharePoint Online\n- Microsoft 365 Copilot\n- Microsoft Defender XDR\n- Microsoft Planner\n- Microsoft To Do\n \nUBC IT Technicians continue to monitor the service.\n \nNext update is scheduled for tomorrow at 08:00 PCT.",
+     "created_at": "2026-11-12T21:37:17.222-08:00",
+     "updated_at": "2026-11-12T21:39:13.445-08:00",
+     "display_at": "2026-11-12T21:37:17.000-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "wzk2dm63dxmr",
+     "status": "investigating",
+     "body": "Microsoft 365 is continuing to experience a global disruption - you may have delays or difficulties accessing Microsoft 365 services, including email and calendar.\n \nImpacted services may include, but are not limited to:\n \n- Exchange Online\n- Microsoft Teams\n- SharePoint Online\n- Microsoft Copilot 365\n- Microsoft Defender XDR\n- Microsoft Planner\n- Microsoft To Do\n- Microsoft Intune\n- Microsoft Defender for Office 365\n- Microsoft Purview: Multiple Purview services including Authorization, Auto Labelling, Data Loss Prevention (DLP), Communication Compliance, and Data Classification are impacted.\n- Power BI: All users may intermittently be unable to export reports with MIP sensitivity labels to PDF in Power BI.\n- Microsoft 365 Apps Admin Center: Multiple services including Cloud Update, Cloud Policy, and Inventory.\n \nUBC IT Technicians continue to monitor the service.\n \nNext update is scheduled for 21:30 PCT.",
+     "created_at": "2026-11-12T16:18:03.904-08:00",
+     "updated_at": "2026-11-12T16:18:03.904-08:00",
+     "display_at": "2026-11-12T16:18:03.904-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "0fc18r9kz8p9",
+     "status": "investigating",
+     "body": "Microsoft 365 is continuing to experience a global disruption - you may have delays or difficulties accessing Microsoft 365 services, including email and calendar.\n \nImpacted services may include, but are not limited to:\n \n- Exchange Online\n- Microsoft Teams\n- SharePoint Online\n- Microsoft Copilot 365\n- Microsoft Defender XDR\n- Microsoft Planner\n- Microsoft To Do\n- Microsoft Intune\n- Microsoft Defender for Office 365\n- Microsoft Purview: Multiple Purview services including Authorization, Auto Labelling, Data Loss Prevention (DLP), Communication Compliance, and Data Classification are impacted.\n- Power BI: All users may intermittently be unable to export reports with MIP sensitivity labels to PDF in Power BI.\n- Microsoft 365 Apps Admin Center: Multiple services including Cloud Update, Cloud Policy, and Inventory.\n \nUBC IT Technicians continue to monitor the service.\n \nNext update is scheduled for 17:30 PCT.",
+     "created_at": "2026-11-12T15:20:28.864-08:00",
+     "updated_at": "2026-11-12T15:20:28.864-08:00",
+     "display_at": "2026-11-12T15:20:28.864-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "c9hcr0dsxykc",
+     "status": "investigating",
+     "body": "Microsoft 365 is currently experiencing a global disruption - you may have delays or difficulties accessing Microsoft 365 services, including email and calendar. \n\nOur next update is scheduled for 16:30 PCT.",
+     "created_at": "2026-11-12T13:32:46.519-08:00",
+     "updated_at": "2026-11-12T13:32:46.519-08:00",
+     "display_at": "2026-11-12T13:32:46.519-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "grcnf5374z57",
+     "status": "investigating",
+     "body": "M365 is currently experiencing a global disruption - you may have delays or difficulties accessing M365 services, including email and calendar. \n\nOur next update is scheduled for 14:50 PCT.",
+     "created_at": "2026-11-12T12:26:23.216-08:00",
+     "updated_at": "2026-11-12T12:26:23.216-08:00",
+     "display_at": "2026-11-12T12:26:23.216-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "txw40hlvrjfk",
+     "status": "investigating",
+     "body": "UBC IT is aware of a disruption affecting Microsoft 365 services. Users may have trouble accessing:\n \nExchange Online (Outlook email and calendar)\nMicrosoft Teams\nSharePoint Online and OneDrive\nMicrosoft Copilot 365\nMicrosoft Defender XDR\n \nThis is an issue with Microsoft’s service and not with UBC systems.   UBC IT Technicians are monitoring updates from Microsoft.\n\nOur next update will be at 13:45 PCT.",
+     "created_at": "2026-11-12T11:05:52.756-08:00",
+     "updated_at": "2026-11-12T11:05:52.756-08:00",
+     "display_at": "2026-11-12T11:05:52.756-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "5btzvf83rrqy",
+     "status": "investigating",
+     "body": "We are currently receiving reports of issues connecting with Outlook and other Microsoft 365 web applications.\n\nUBC IT technicians are currently investigating the issue.\n\nOur next update is scheduled to be at 12:00 PCT.",
+     "created_at": "2026-11-12T10:22:43.988-08:00",
+     "updated_at": "2026-11-12T10:22:43.988-08:00",
+     "display_at": "2026-11-12T10:22:43.988-08:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "operational",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "p6674v92jrz5",
+       "name": "Email Services - UBC Student Email",
+       "old_status": "operational",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "cknby01w6h0y"
+    },
+    {
+     "id": "p6674v92jrz5"
+    }
+   ],
+   "reminder_intervals": null
+  },
+  {
+   "id": "np4hz6l23n7x",
+   "name": "BC Time Zone Change Planning",
+   "status": "investigating",
+   "impact": "critical",
+   "created_at": "2026-10-09T14:14:10.961-07:00",
+   "updated_at": "2026-11-12T10:22:43.940-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-10-09T14:14:10.951-07:00",
+   "shortlink": "https://stspg.io/n7bdphx590lv",
+   "incident_updates": [
+    {
+     "id": "0653ybh59jy4",
+     "status": "investigating",
+     "body": "If you are using UBC FASmail or UBC Student Email, you can now update your meetings using <a href=\"https://it.ubc.ca/news/october-20-2026/bc-time-zone-change-what-it-means-your-calendar-and-devices#update-your-meetings\">UBC IT's self-service tool</a>. The tool can update many meetings automatically and identify those that require manual review. \n \nIf you are not using UBC FASmail or UBC Student Email, please consult with your department or organization on how to update your upcoming meetings. You may need to manually update your meetings to the new time zone.\n \nFor updated information, visit https://www.it.ubc.ca/timezonechange",
+     "created_at": "2026-10-26T16:17:35.870-07:00",
+     "updated_at": "2026-10-26T16:17:35.870-07:00",
+     "display_at": "2026-10-26T16:17:35.870-07:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "rr5q8cc5b1mp",
+     "status": "investigating",
+     "body": "A guidance page has been developed to assist the UBC community in navigating the time zone change.  This post will receive updates as more information becomes available.  Further communications will be shared later this week.\n\nhttps://it.ubc.ca/news/october-20-2026/bc-time-zone-change-what-it-means-your-calendar-and-devices",
+     "created_at": "2026-10-20T17:38:20.989-07:00",
+     "updated_at": "2026-10-20T17:38:20.989-07:00",
+     "display_at": "2026-10-20T17:38:20.989-07:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "hbvt700mnl49",
+     "status": "investigating",
+     "body": "UBC IT is still working with vendors and validating guidance. We plan to share detailed information on Tuesday, October 20, 2026 (afternoon).",
+     "created_at": "2026-10-16T15:18:21.576-07:00",
+     "updated_at": "2026-10-16T15:18:21.576-07:00",
+     "display_at": "2026-10-16T15:18:21.576-07:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "k9ddl8g6twbm",
+     "status": "investigating",
+     "body": "British Columbia has adopted permanent year-round daylight saving time (Pacific Time), with the change scheduled to take effect on November 1. We recognize that some community members may have questions about the impact on calendars, devices, and scheduled meetings.\n\nUBC IT is actively working with Microsoft and Apple to coordinate the required time zone updates for computers, mobile devices, and calendaring services. We anticipate updates from our vendors will begin rolling out next week.\n\nUBC IT plans to provide detailed guidance by October 16 outlining what to expect and any actions that may be required.\nThank you for your patience as we work to ensure a smooth transition.",
+     "created_at": "2026-10-09T14:14:11.174-07:00",
+     "updated_at": "2026-10-09T14:14:11.174-07:00",
+     "display_at": "2026-10-09T14:14:11.174-07:00",
+     "affected_components": [
+      {
+       "code": "cknby01w6h0y",
+       "name": "Email Services - Faculty and Staff Email (FASmail)",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "cknby01w6h0y"
+    }
+   ],
+   "reminder_intervals": null
+  },
+  {
+   "id": "z1z5bflp3pl2",
+   "name": "Wireless connectivity issues for Macs - November 4, 2026 - 13:00 PT",
+   "status": "monitoring",
+   "impact": "minor",
+   "created_at": "2026-11-04T12:42:34.000-08:00",
+   "updated_at": "2026-11-12T06:01:26.560-08:00",
+   "monitoring_at": "2026-11-12T06:01:26.538-08:00",
+   "resolved_at": null,
+   "started_at": "2026-11-04T12:42:34.000-08:00",
+   "shortlink": "https://stspg.io/myy4vtk2cc74",
+   "incident_updates": [
+    {
+     "id": "9pbr02thrfml",
+     "status": "monitoring",
+     "body": "After investigating, UBC IT technicians have determined that a recent required network upgrade resulted in some older devices being unable to connect to UBC's networks. UBC's wireless network remains fully functional, and most up-to-date devices are able to connect.\n\nWe strongly recommend that all clients ensure their devices are up to date with the latest versions of their operating system. For Macs this is MacOS 27.2.1, and for iPhone/iPad this is iOS version 27.2.1.\n\nIf your phone or computer is unable to update to the latest version, clients may opt to use the UBC IoT network as an alternative, if connecting from on-campus. More information about the IoT network can be found at https://it.ubc.ca/services/email-voice-internet/ubc-internet-things-iot-wi-fi.",
+     "created_at": "2026-11-12T06:01:26.538-08:00",
+     "updated_at": "2026-11-12T06:01:26.538-08:00",
+     "display_at": "2026-11-12T06:01:26.538-08:00",
+     "affected_components": [
+      {
+       "code": "yxmcwj4h3v0y",
+       "name": "Network - Wireless - Wireless - Point Grey",
+       "old_status": "degraded_performance",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "4xl1wtbyfq5g",
+     "status": "investigating",
+     "body": "Noted workarounds appear to be working for affected users.\nTechnicians are still monitoring the issue; however, recommendation is to apply one of the workarounds/fixes.",
+     "created_at": "2026-11-04T15:38:20.845-08:00",
+     "updated_at": "2026-11-04T15:38:20.845-08:00",
+     "display_at": "2026-11-04T15:38:20.845-08:00",
+     "affected_components": [
+      {
+       "code": "yxmcwj4h3v0y",
+       "name": "Network - Wireless - Wireless - Point Grey",
+       "old_status": "operational",
+       "new_status": "degraded_performance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "lnd6t1nhhq4k",
+     "status": "investigating",
+     "body": "Issue is still being investigated.\n\nFor workarounds:\n\n1. Update your MacOS operating system\n2. Use the UBCIoT Wifi network (https://it.ubc.ca/services/email-voice-internet/ubc-internet-things-iot-wi-fi)",
+     "created_at": "2026-11-04T13:53:21.510-08:00",
+     "updated_at": "2026-11-04T13:53:21.510-08:00",
+     "display_at": "2026-11-04T13:53:21.510-08:00",
+     "affected_components": [
+      {
+       "code": "yxmcwj4h3v0y",
+       "name": "Network - Wireless - Wireless - Point Grey",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "r8sw3jf0hhs1",
+     "status": "investigating",
+     "body": "There is currently an issue that some Mac devices are unable to connect to the UBC wireless networks.\n\nTechnicians are investigating the issue.\n\nNext update will be at 15:00",
+     "created_at": "2026-11-04T12:42:34.231-08:00",
+     "updated_at": "2026-11-04T12:59:24.661-08:00",
+     "display_at": "2026-11-04T12:42:34.000-08:00",
+     "affected_components": [
+      {
+       "code": "yxmcwj4h3v0y",
+       "name": "Network - Wireless - Wireless - Point Grey",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "yxmcwj4h3v0y"
+    }
+   ],
+   "reminder_intervals": null
+  },
+  {
+   "id": "2434b8lwv8j6",
+   "name": "View My Teaching Schedule report in Workday not showing teaching assignments",
+   "status": "investigating",
+   "impact": "major",
+   "created_at": "2026-09-21T16:17:46.249-07:00",
+   "updated_at": "2026-09-29T16:44:37.812-07:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-09-21T16:17:46.239-07:00",
+   "shortlink": "https://stspg.io/82wgwm0ysrck",
+   "incident_updates": [
+    {
+     "id": "3r6t9th5jnxn",
+     "status": "investigating",
+     "body": "This issue is still ongoing. We apologize for the inconvenience. Please continue reaching out to the <a href=\"https://isc.ubc.ca/contact\">Integrated Service Centre</a> for questions and support.",
+     "created_at": "2026-09-29T16:44:37.809-07:00",
+     "updated_at": "2026-09-29T16:44:37.809-07:00",
+     "display_at": "2026-09-29T16:44:37.809-07:00",
+     "affected_components": [
+      {
+       "code": "kvh6lblcgd82",
+       "name": "Workday",
+       "old_status": "partial_outage",
+       "new_status": "partial_outage"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "mnhpnwtz4p0h",
+     "status": "investigating",
+     "body": "Faculty are unable to view their current or upcoming teaching assignments when using the View My Teaching Schedule report in Workday. The issue is being investigated. \n\nIn the meantime, when running the View My Teaching Schedule report in Workday to view teaching assignments, search for the specific academic period in the 'Academic Period' field. For example, for 2026 Winter Term 1, type in \"2026 Winter\" and press 'Enter'. Select from the academic period options. Select 'OK'.\n\nPlease reach out to the <a href=\"https://isc.ubc.ca/contact\">Integrated Service Centre</a> for questions and support.",
+     "created_at": "2026-09-21T16:17:46.311-07:00",
+     "updated_at": "2026-09-21T16:17:46.311-07:00",
+     "display_at": "2026-09-21T16:17:46.311-07:00",
+     "affected_components": [
+      {
+       "code": "kvh6lblcgd82",
+       "name": "Workday",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "kvh6lblcgd82"
+    }
+   ],
+   "reminder_intervals": null
+  },
+  {
+   "id": "jv6z1f7f0gdz",
+   "name": "Microsoft announces removal of Office support for older systems and software versions, July 13, 2026",
+   "status": "investigating",
+   "impact": "critical",
+   "created_at": "2026-07-10T15:48:34.675-07:00",
+   "updated_at": "2026-07-25T11:43:44.132-07:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-07-10T15:48:34.664-07:00",
+   "shortlink": "https://stspg.io/45f1cg5zgpq5",
+   "incident_updates": [
+    {
+     "id": "y5n1w1pq9fg0",
+     "status": "investigating",
+     "body": "Microsoft has announced that effective July 13th, 2026, Office applications will no longer be supported on older MacOS and iOS systems, and further, they are removing support for older versions of Office entirely. \n \n\t• Clients which are running operating systems earlier than the following minimums will no longer be able to edit or save files after the change: \n\t\tMac OS – minimum version 12.0 (Monterey) \n\t\tiOS – minimum version 17.0 \n \n\t• Clients who are using Office 2019 for Mac, regardless of operating system, will be unable to edit or save files after the change. \n\t• Clients who are using Office 2021 for Mac or MS 365 apps on iPhone and iPads will continue to function normally, provided the operating systems are supported (as listed above) and at the following minimum software versions: \n\t\tOffice 2021 for Mac – minimum version 16.83 \n\t\tMS365 apps for iOS – minimum version 2.93 \n \nUBC IT strongly recommends that all clients running Office on a Mac, iPhone, or iPad  update their operating systems and Office software before July 13th to prevent any disruptions. \n \nFor more information, see https://ubc.service-now.com/kb_view.do?sysparm_article=KB0020043",
+     "created_at": "2026-07-10T15:48:34.722-07:00",
+     "updated_at": "2026-07-10T15:48:34.722-07:00",
+     "display_at": "2026-07-10T15:48:34.722-07:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "reminder_intervals": null
+  }
+ ],
+ "scheduled_maintenances": [
+  {
+   "id": "qxt2z0mcpng0",
+   "name": "Appian Applications Maintenance November 16, 2026, 04:00 - 06:00 AM PCT",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-12T07:32:51.894-08:00",
+   "updated_at": "2026-11-12T07:32:52.001-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-12T07:32:51.894-08:00",
+   "shortlink": "https://stspg.io/6w1yws6z5cd0",
+   "incident_updates": [
+    {
+     "id": "1ngvk9qdrn89",
+     "status": "scheduled",
+     "body": "All Appian applications will undergo a planned system maintenance on November 16, 2026 from 04:00 PCT to 06:00 AM PCT. During this time, users may experience brief interruptions or be unable to log in to individual applications. \n\nImpacted applications include:\n•\tStudent Communication Tool (SCT)\n•\tOfficial Document Management Tool (ODMT)\n•\tTeach Eval (SEC)\n•\tLearner Financial support application (LFSM)\n•\tFinal Grade Submission (FGST)\n•\tExam management application (EXMM/EXMMA)\n•\tActivity Transfer application (CRSS)\n•\tAcademic Records (AARS)\n•\tRole Based Access Control (RBAC)\n•\tStandard Time Table Management application (STTM)\n•\tWeb Comm (COMM)",
+     "created_at": "2026-11-12T07:32:51.997-08:00",
+     "updated_at": "2026-11-12T07:32:51.997-08:00",
+     "display_at": "2026-11-12T07:32:51.997-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-16T04:00:00.000-08:00",
+   "scheduled_until": "2026-11-16T06:00:00.000-08:00"
+  },
+  {
+   "id": "wsk4y6rvp1qf",
+   "name": "Enterprise Automation and Solution Delivery services maintenance for Appian Applications on November 17, 2026 starting at 4:00 PM",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-12T15:01:29.558-08:00",
+   "updated_at": "2026-11-12T15:01:29.653-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-12T15:01:29.558-08:00",
+   "shortlink": "https://stspg.io/3j655dv4qf2f",
+   "incident_updates": [
+    {
+     "id": "yq60rgcgw5qc",
+     "status": "scheduled",
+     "body": "Enterprise Automation and Solution Delivery services maintenance for Appian Applications on November 17, 2026 starting at 4:00 PM\n\nNote: Validation activities will continue on November 18, 2026.\n\nApps/Services:\n\nFollowing Applications will be impacted because  CloudHub 1.0 is increasingly becoming a strategic and operational constraint for UBC's integration platform. Migrating to CloudHub 2.0 would reduce operational risk, simplify infrastructure management, improve scalability, and better align UBC with MuleSoft's future platform direction.\n\nExam management application (EXMM/EXMMA)\nActivity Transfer application (CRSS)\nLearner Financial support application (LFSM)\nFinal Grade Submission (FGST)\nOfficial Document Management Tool (ODMT)\nStudent Communications (COMS)\nAffiliate Student Management Tool (ASMT)\nUniversity Data Platform (UDAP)\nImpacts:\n\nDuring this maintenance window there will be varying interruptions to individual Appian Applications\nReason for maintenance:\n\nUBC's integration platform, Migrating from CloudHub 1.0 to CloudHub 2.0\nRelease Plan: https://confluence.it.ubc.ca/x/66ZVH",
+     "created_at": "2026-11-12T15:01:29.649-08:00",
+     "updated_at": "2026-11-12T15:01:29.649-08:00",
+     "display_at": "2026-11-12T15:01:29.649-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-17T16:00:00.000-08:00",
+   "scheduled_until": "2026-11-18T16:00:00.000-08:00"
+  },
+  {
+   "id": "nyq0y6fqgncg",
+   "name": "Appian Applications Maintenance November 17, 2026, 16:00 - 20:00 PM PCT",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-12T07:33:19.706-08:00",
+   "updated_at": "2026-11-12T07:33:19.806-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-12T07:33:19.706-08:00",
+   "shortlink": "https://stspg.io/gc01m3ztz3r3",
+   "incident_updates": [
+    {
+     "id": "4yjh70wq815g",
+     "status": "scheduled",
+     "body": "All Appian applications will undergo a planned system maintenance on November 17, 2026 from 16:00 PCT to 20:00 PM PCT. During this time, users may experience brief interruptions or be unable to log in to individual applications. \n\nImpacted applications include:\n•\tStudent Communication Tool (SCT)\n•\tOfficial Document Management Tool (ODMT)\n•\tTeach Eval (SEC)\n•\tLearner Financial support application (LFSM)\n•\tFinal Grade Submission (FGST)\n•\tExam management application (EXMM/EXMMA)\n•\tActivity Transfer application (CRSS)\n•\tAcademic Records (AARS)\n•\tRole Based Access Control (RBAC)\n•\tStandard Time Table Management application (STTM)\n•\tWeb Comm (COMM)",
+     "created_at": "2026-11-12T07:33:19.803-08:00",
+     "updated_at": "2026-11-12T07:33:19.803-08:00",
+     "display_at": "2026-11-12T07:33:19.803-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-17T16:00:00.000-08:00",
+   "scheduled_until": "2026-11-17T20:00:00.000-08:00"
+  },
+  {
+   "id": "rbbwj9lb8p5m",
+   "name": "TouchNet PROD site - Scheduled Maintenance November 18, 2026 - 01:00 a.m. to November 18, 2026 - 05:00 a.m.",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-02T08:25:29.036-08:00",
+   "updated_at": "2026-11-02T08:25:29.140-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-02T08:25:29.036-08:00",
+   "shortlink": "https://stspg.io/gqvv4vhxr7yr",
+   "incident_updates": [
+    {
+     "id": "60fg5x6mzpnx",
+     "status": "scheduled",
+     "body": "The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks \"pay now\" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. \nFor any questions please contact dpp.support@ubc.ca",
+     "created_at": "2026-11-02T08:25:29.137-08:00",
+     "updated_at": "2026-11-02T08:25:29.137-08:00",
+     "display_at": "2026-11-02T08:25:29.137-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-18T01:00:00.000-08:00",
+   "scheduled_until": "2026-11-18T05:00:00.000-08:00"
+  },
+  {
+   "id": "gvp3qvx7c187",
+   "name": "UBCIT eSAM Servers Maintenance Nov. 19, 2026, 20:00-23:00 PT",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-03T16:14:06.348-08:00",
+   "updated_at": "2026-11-03T16:14:06.445-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-03T16:14:06.348-08:00",
+   "shortlink": "https://stspg.io/ptn6s9t48pqk",
+   "incident_updates": [
+    {
+     "id": "q0x9397scmx3",
+     "status": "scheduled",
+     "body": "UBCIT will be performing maintenance on the eSAM component and vault servers on Nov. 19, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.\n\nUsers will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintanance window. \n\nAny connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window.",
+     "created_at": "2026-11-03T16:14:06.442-08:00",
+     "updated_at": "2026-11-03T16:14:06.442-08:00",
+     "display_at": "2026-11-03T16:14:06.442-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-19T20:00:00.000-08:00",
+   "scheduled_until": "2026-11-19T23:00:00.000-08:00"
+  },
+  {
+   "id": "ns212p60b274",
+   "name": "Perceptive Content Maintenance November 30, 2026 12:00 - 20:00 PT",
+   "status": "scheduled",
+   "impact": "maintenance",
+   "created_at": "2026-11-10T11:44:39.343-08:00",
+   "updated_at": "2026-11-10T11:44:39.437-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-10T11:44:39.343-08:00",
+   "shortlink": "https://stspg.io/wb4w6td44yxr",
+   "incident_updates": [
+    {
+     "id": "lrbqpkr26v3d",
+     "status": "scheduled",
+     "body": "Perceptive Content will be undergoing maintenance on November 30, 2026, 12:00 PT to 20:00 PT. The system will be unavailable during this time.",
+     "created_at": "2026-11-10T11:44:39.435-08:00",
+     "updated_at": "2026-11-10T11:44:39.435-08:00",
+     "display_at": "2026-11-10T11:44:39.435-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-30T12:00:00.000-08:00",
+   "scheduled_until": "2026-11-30T20:00:00.000-08:00"
+  },
+  {
+   "id": "wcllqgktg31r",
+   "name": "Enterprise Automation & Solution Delivery APPIAN Cloud Platform Maintenance from November 16th, 2026, 04:00 - 16:00 PCT",
+   "status": "in_progress",
+   "impact": "maintenance",
+   "created_at": "2026-11-12T14:59:19.693-08:00",
+   "updated_at": "2026-11-13T10:00:07.639-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-12T14:59:19.693-08:00",
+   "shortlink": "https://stspg.io/ftycbrl95smf",
+   "incident_updates": [
+    {
+     "id": "mwj09z85slt9",
+     "status": "in_progress",
+     "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+     "created_at": "2026-11-13T10:00:07.634-08:00",
+     "updated_at": "2026-11-13T10:00:07.634-08:00",
+     "display_at": "2026-11-13T10:00:07.634-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "hcnyqgbj97c9",
+     "status": "scheduled",
+     "body": "Maintenance will begin as scheduled in 60 minutes.",
+     "created_at": "2026-11-13T09:00:10.086-08:00",
+     "updated_at": "2026-11-13T09:00:10.086-08:00",
+     "display_at": "2026-11-13T09:00:10.086-08:00",
+     "affected_components": null,
+     "deliver_notifications": true
+    },
+    {
+     "id": "c1c2vclxlblb",
+     "status": "scheduled",
+     "body": "APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance is scheduled from November 13rd, 2026, 10:00 to November 16th, 2026, 16:00 PCT\n\nDuring the maintenance window, the UBC Appian site will experience a service interruption of up to two hours on November 16th, 2026, between 04:00 and 06:00 PCT.\n\nValidation activities will continue until 16:00 PCT on the same day.\n\nAll BPMS applications will automatically recover once maintenance is complete.\n\nImpacted applications:\n\nScheduling Applications:\nSpecial Topics and Variable Credit (STVC)\nStandard Time Table (STTM)\nScheduling Menu (SM)\nFinal Grade Submission (AOC)\nOfficial Documents (ODMT)\nStudent Direct Stream (SDS)\nDocument Viewer (DOCV)\nLearner Financial Support (LFS)\nRole Based Access Control (RBAC)\nStudent Communications Tool (ADHC)\nCourse Management (CRSS)\nAcademic Records (AARS)\nAffiliate Student Management Tool (ASMT)\nScheduling Transfers (SCHT)\nCustom Organization Management System (COMS)\nExam Management (EXMM)\nIntegration Error Log (ERRL)\nRecord Queue Manager (RQM)\nTeachEval (SET)\nGraduation Management (CNVM)\nAutomation Services",
+     "created_at": "2026-11-12T14:59:19.774-08:00",
+     "updated_at": "2026-11-12T14:59:19.774-08:00",
+     "display_at": "2026-11-12T14:59:19.774-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "major_outage",
+       "new_status": "major_outage"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-13T10:00:00.000-08:00",
+   "scheduled_until": "2026-11-16T16:00:00.000-08:00"
+  },
+  {
+   "id": "lmzrmw5jrnc4",
+   "name": "UBC Identity Broker Maintenance November 10, 2026 16:00 PT - November 17, 2026 16:00 PT",
+   "status": "in_progress",
+   "impact": "maintenance",
+   "created_at": "2026-11-10T11:46:33.027-08:00",
+   "updated_at": "2026-11-10T16:00:09.633-08:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-11-10T11:46:33.027-08:00",
+   "shortlink": "https://stspg.io/7ppc47mlj8zl",
+   "incident_updates": [
+    {
+     "id": "f8bmmvb80n1b",
+     "status": "in_progress",
+     "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+     "created_at": "2026-11-10T16:00:09.601-08:00",
+     "updated_at": "2026-11-10T16:00:09.601-08:00",
+     "display_at": "2026-11-10T16:00:09.601-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    },
+    {
+     "id": "3041j7383s8m",
+     "status": "scheduled",
+     "body": "Maintenance will begin as scheduled in 60 minutes.",
+     "created_at": "2026-11-10T15:00:30.746-08:00",
+     "updated_at": "2026-11-10T15:00:30.746-08:00",
+     "display_at": "2026-11-10T15:00:30.746-08:00",
+     "affected_components": null,
+     "deliver_notifications": true
+    },
+    {
+     "id": "qv3x7bls1zq8",
+     "status": "scheduled",
+     "body": "The UBC Identity Broker (IDBK) will undergo scheduled maintenance beginning November 10, 2026 at 16:00 PT to November 17, 2026 16:00 PT.\n\nThe service will be updated to onboard a new service and increase resourcing capacity.\n\nNo end user impact is expected.",
+     "created_at": "2026-11-10T11:46:33.150-08:00",
+     "updated_at": "2026-11-10T11:46:33.150-08:00",
+     "display_at": "2026-11-10T11:46:33.150-08:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "operational",
+       "new_status": "operational"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "operational",
+       "new_status": "operational"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-11-10T16:00:00.000-08:00",
+   "scheduled_until": "2026-11-17T16:00:00.000-08:00"
+  },
+  {
+   "id": "d0vktmr61xwf",
+   "name": "BC time zone change for UBC managed MacOS devices October 20, 2026, 16:00 PT",
+   "status": "in_progress",
+   "impact": "maintenance",
+   "created_at": "2026-10-20T14:06:30.427-07:00",
+   "updated_at": "2026-10-20T16:01:08.698-07:00",
+   "monitoring_at": null,
+   "resolved_at": null,
+   "started_at": "2026-10-20T14:06:30.427-07:00",
+   "shortlink": "https://stspg.io/kwylz972wwjs",
+   "incident_updates": [
+    {
+     "id": "sjqdbbq07dn0",
+     "status": "in_progress",
+     "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+     "created_at": "2026-10-20T16:01:08.684-07:00",
+     "updated_at": "2026-10-20T16:01:08.684-07:00",
+     "display_at": "2026-10-20T16:01:08.684-07:00",
+     "affected_components": null,
+     "deliver_notifications": true
+    },
+    {
+     "id": "vlpqhxfqscxv",
+     "status": "scheduled",
+     "body": "Maintenance will begin as scheduled in 60 minutes.",
+     "created_at": "2026-10-20T15:01:19.206-07:00",
+     "updated_at": "2026-10-20T15:01:19.206-07:00",
+     "display_at": "2026-10-20T15:01:19.206-07:00",
+     "affected_components": null,
+     "deliver_notifications": true
+    },
+    {
+     "id": "d4ks86dn3swr",
+     "status": "scheduled",
+     "body": "UBC IT will be preparing end user devices for the transition to the new BC time zone (PCT, UTC -7:00).  MacOS devices that are currently set to America/Los_Angeles, America/Tijuana or US/Pacific (PST/PDT) will be transitioned to America/Vancouver to address the new time zone for British Columbia.  We realize this may impact a small number of devices operating outside BC (Washington, Oregon, California) that may need to be corrected after this change.",
+     "created_at": "2026-10-20T14:06:30.515-07:00",
+     "updated_at": "2026-10-20T14:06:30.515-07:00",
+     "display_at": "2026-10-20T14:06:30.515-07:00",
+     "affected_components": [
+      {
+       "code": "fd89kl8c3bsg",
+       "name": "Other - Other - Vancouver",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      },
+      {
+       "code": "1yh117jsfbx6",
+       "name": "Other - Other - Okanagan",
+       "old_status": "under_maintenance",
+       "new_status": "under_maintenance"
+      }
+     ],
+     "deliver_notifications": true
+    }
+   ],
+   "components": [
+    {
+     "id": "fd89kl8c3bsg"
+    },
+    {
+     "id": "1yh117jsfbx6"
+    }
+   ],
+   "scheduled_for": "2026-10-20T16:00:00.000-07:00",
+   "scheduled_until": "2026-11-30T15:00:00.000-08:00"
+  }
+ ],
+ "status": {
+  "indicator": "minor",
+  "description": "Partially Degraded Service"
+ }
+}
